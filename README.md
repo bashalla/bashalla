@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bashalla
 - 👀 I’m interested in React Native Mobile Development
-- 🌱 Holding a Bachelor Degree in Computer Sience from UOL
+- 🌱 Holding a Bachelor Degree in Computer Sience from the University of London
 - 📫 How to reach me: http://www.linkedin.com/in/shallabrin
