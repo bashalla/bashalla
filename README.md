@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bashalla
-- 👀 I’m interested in React Native Mobile Development
+- 👀 I’m interested in React Native Mobile Development & Node.js Full Stack Applications
 - 🌱 Holding a Bachelor Degree in Computer Sience from the University of London
 - 📫 How to reach me: http://www.linkedin.com/in/shallabrin
